@@ -1,7 +1,7 @@
 {
-  "name": "AFK Bot",
+  "name": "marloww",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "ItsnotZek",
     "password": "",
     "type": "offline"
   },
@@ -12,9 +12,9 @@
   },
   "position": {
     "enabled": true,
-    "x": 0,
+    "x": 10000000,
     "y": 100,
-    "z": 0
+    "z": 9378618
   },
   "utils": {
     "auto-auth": {
@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "yo",
+        "you guys joined?",
+        "stop,trolling!"
       ]
     },
     "chat-log": true,
